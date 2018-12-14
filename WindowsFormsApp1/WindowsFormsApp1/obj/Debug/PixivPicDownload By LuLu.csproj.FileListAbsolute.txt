@@ -1,0 +1,11 @@
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PixivPicDLer.resources
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PixivPicDownload By LuLu.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PixivPicDownload By LuLu.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PixivPicDownload By LuLu.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Allresource.resources
